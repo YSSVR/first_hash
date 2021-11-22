@@ -10,3 +10,4 @@ for i in range(1,T2+1):
                 y=j
                 z=k
 print(x,y,z)
+https://files.fm/u/bzbd8rq99
